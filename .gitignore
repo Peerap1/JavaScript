@@ -20,10 +20,4 @@ venv
 output
 log.html
 output.xml
-report.html
-
-# robot
-output
-log.html
-output.xml
-report.html
+report.html=
